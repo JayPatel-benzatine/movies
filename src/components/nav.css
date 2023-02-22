@@ -1,0 +1,14 @@
+.nav{
+
+    width: 86%;
+    position: fixed;
+    bottom: 10px;
+    border: 2px solid #14557b;
+    margin-left: 65px;
+    background-color: #7fcec5;
+    background-image: linear-gradient(315deg, #62a39d 0%, #14557b 74%);
+    color: white;
+    z-index: 1;
+    border-radius: 15px;
+     
+}

@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Charis+SIL&display=swap');
+
+.trending {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+ 
+}
+.pageTitle {
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 3vw;
+  padding: 4px;
+  border-radius: 50px;
+  color: white;
+  font-family: 'Charis SIL', serif;
+}
+
+@media (min-width: 768px) {
+  .pageTitle {
+    font-size: 4.4vw;
+  }
+}
